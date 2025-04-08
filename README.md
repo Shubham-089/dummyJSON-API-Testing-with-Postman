@@ -87,9 +87,5 @@ https://dummyjson.com/
   "password": "emilyspass",
   "expiresInMins": 30
 }
--🔧 Usage
--Open Postman.
--Import the collection JSON file.
--Use any request by selecting it from the left panel.
--(Optional) For login-protected endpoints, perform the login request and use the returned token in the Authorization tab of other requests.
+
 
