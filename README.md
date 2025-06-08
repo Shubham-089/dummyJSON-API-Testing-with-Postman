@@ -1,5 +1,9 @@
 # DummyJSON Postman Collection
 
+## 📸 Project Image  
+![Screenshot 2025-06-08 200319](https://github.com/user-attachments/assets/52ccf8d4-24f7-480b-9010-c387db1d4635)
+
+
 This Postman collection provides a set of pre-configured requests for interacting with the [DummyJSON API](https://dummyjson.com). DummyJSON is a fake REST API for prototyping and testing frontend or backend applications.
 
 ## Base URL
